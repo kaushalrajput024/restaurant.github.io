@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.activeBackground": "#fae967",
+			"activityBar.activeBorder": "#059a89",
+			"activityBar.background": "#fae967",
+			"activityBar.foreground": "#15202b",
+			"activityBar.inactiveForeground": "#15202b99",
+			"activityBarBadge.background": "#059a89",
+			"activityBarBadge.foreground": "#e7e7e7",
+			"sash.hoverBorder": "#fae967",
+			"statusBar.background": "#f8e236",
+			"statusBar.border": "#f8e236",
+			"statusBar.debuggingBackground": "#364cf8",
+			"statusBar.debuggingBorder": "#364cf8",
+			"statusBar.debuggingForeground": "#e7e7e7",
+			"statusBar.foreground": "#15202b",
+			"statusBarItem.hoverBackground": "#f3d808",
+			"statusBarItem.remoteBackground": "#f8e236",
+			"statusBarItem.remoteForeground": "#15202b",
+			"titleBar.activeBackground": "#f8e236",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.border": "#f8e236",
+			"titleBar.inactiveBackground": "#f8e23699",
+			"titleBar.inactiveForeground": "#15202b99"
+		},
+		"peacock.color": "#f8e236",
+		"liveServer.settings.multiRootWorkspaceName": "Web_Dev",
+		"editor.mouseWheelZoom": true,
+		"liveServer.settings.port": 5502,
+		"cSpell.words": [
+			"atractive"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"johnpapa.vscode-peacock", //for identifying project's
+			"ms-vscode.cpptools",
+			"formulahendry.code-runner", //run code by one click.
+			"streetsidesoftware.code-spell-checker", //it's check spelling. 
+			"naumovs.color-highlight",
+			"ms-vsliveshare.vsliveshare", //share code with friend.
+			"pkief.material-icon-theme", //Theme for icons.
+			"cweijan.vscode-office", //display exl,doc files.
+			"2gua.rainbow-brackets", //bracket have different colors. 
+			"tomoki1207.pdf", //display pdf.
+			"ecmel.vscode-html-css", //for html or css.
+		]
+	}
+}
